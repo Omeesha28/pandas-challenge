@@ -14,12 +14,13 @@ I have uploaded the screenshots for the output for District Summary, School Summ
 - We can conclude from the data, that as higher budget does not necessarily guarantee better academic performance. The highest budget was allocated to Bailey High School (3,124,928.00) and the lowest budget was allocated to Holden High School ($248,087.00). Even though Bailey High School had a higher budget, Holden High School students had a higher average for both math and reading, higher passing math and passing reading percentage and a higher overall passing rate compared to Bailey High School. Based the data, we can conclude that the relationship between performance of student grades and budget is complex and can be influenced by various factors such as quality of the teacher, school culture, class size, curriculum and so on. Further research has to be done on how the extra money at Bailey High School can be put into better use to help increase student grades and achievement.
   
 ## District Summary
-  Include the following:
-  Total number of unique schools
-  Total students
-  Total budget
-  Average math score
-  Average reading score
-  % passing math (the percentage of students who passed math)
-  % passing reading (the percentage of students who passed reading)
+- Include the following:
+- Total number of unique schools
+- Total students
+- Total budget
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
   % overall passing (the percentage of students who passed math AND reading)
+![output](District_summary.png)
