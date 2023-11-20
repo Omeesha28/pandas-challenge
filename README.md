@@ -58,4 +58,10 @@ Include the following:
 ![output](School_Spending.png)
 ![output](School_Spending2.png)
 ## Scores by School Size
+
+![output](School_Size.png)
+![output](School_Size2.png)
+
 ## Scores by School Type.
+
+![output](School_type.png)
