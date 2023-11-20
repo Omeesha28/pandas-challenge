@@ -25,3 +25,25 @@ Include the following:
   % overall passing (the percentage of students who passed math AND reading)
 
 ![output](District_Summary.png)
+
+## School Summary
+Include the following:
+- School name
+- School type
+- Total students
+- Total school budget
+- Per student budget
+- Average math score
+- Average reading score
+- % passing math (the percentage of students who passed math)
+- % passing reading (the percentage of students who passed reading)
+- % overall passing (the percentage of students who passed math AND reading)
+
+
+## Highest Performing School (by % Overall Passing)
+## Bottom Performing School (by % Overall Passing), 
+## Math Scores by Grade
+## Reading Scores by Grade
+## Scores by School Spending
+## Scores by School Size
+## Scores by School Type.
