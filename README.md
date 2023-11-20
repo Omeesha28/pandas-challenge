@@ -39,9 +39,14 @@ Include the following:
 - % passing reading (the percentage of students who passed reading)
 - % overall passing (the percentage of students who passed math AND reading)
 
+![output](School_Summary.png)
 
 ## Highest Performing School (by % Overall Passing)
-## Bottom Performing School (by % Overall Passing), 
+
+![output](Highest.png)
+## Bottom Performing School (by % Overall Passing)
+
+![output](Bottom.png)
 ## Math Scores by Grade
 ## Reading Scores by Grade
 ## Scores by School Spending
