@@ -48,7 +48,14 @@ Include the following:
 
 ![output](Bottom.png)
 ## Math Scores by Grade
+
+![output](Math.png)
 ## Reading Scores by Grade
+
+![output](Reading.png)
 ## Scores by School Spending
+
+![output](School_Spending.png)
+![output](School_Spending2.png)
 ## Scores by School Size
 ## Scores by School Type.
